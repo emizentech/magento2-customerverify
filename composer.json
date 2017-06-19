@@ -1,0 +1,21 @@
+{
+    "name": "emizentech/module-customerattribute",
+    "description": "",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "name": "Amit",
+            "email": "amit@emizentech.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "EmizenTech\\CustomerAttribute\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
