@@ -19,7 +19,7 @@ mkdir app/code/EmizenTech/CustomerAttribute
 
 now upload module files in <strong>/Magento2Project/app/code/EmizenTech/CustomerAttribute</strong>
 
-<h3> Enable Emizentech/ShopByBrand Module</h3>
+<h3> Enable Emizentech/CustomerAttribute Module</h3>
 to Enable this module you need to follow these steps:
 
 <ul>
