@@ -1,4 +1,10 @@
-# magento2-customerverify
+
+<b> Magento 2 Customer Verify </>
+#magento2customerverify
+
+
+#magento2 #customer #verify #approve
+
 
 #Features
 <ul>
